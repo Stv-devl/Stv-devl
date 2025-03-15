@@ -10,4 +10,4 @@
 
 ## Contact Me
 - **[LinkedIn](https://www.linkedin.com/in/stevan-l-793141128/)**
-- **[Email](stevan.devpp@gmail.com)**
+- **[stevan.devpp@gmail.com](mailto:stevan.devpp@gmail.com)**
