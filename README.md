@@ -5,7 +5,6 @@ I create modern and optimized interfaces with a strong focus on user experience.
 I enjoy working on **complex SaaS** applications, problem-solving, and continually expanding my skill set.  
 I also have backend experience with **Node.js** and **Next.js**.
 
----
 
 ## Skills
 
@@ -17,7 +16,6 @@ I also have backend experience with **Node.js** and **Next.js**.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&style=flat)
 ![Stripe](https://img.shields.io/badge/-Stripe-6266E4?logo=stripe&style=flat)
 
----
 
 ## Featured Projects
 
@@ -25,9 +23,9 @@ I also have backend experience with **Node.js** and **Next.js**.
    A full-stack cloud storage application built with Next.js, Tailwind CSS, Node.js, Stripe, and MongoDB.  
    SyncData allows users to upload, organize, share, and manage their files.
 
----
 
 ## Contact Me
+
 - **Portfolio**: [Viste my portfolio](https://www.stevandev.com/)  
 - **LinkedIn**: [Visit my profile](https://www.linkedin.com/in/stevan-l-793141128/)  
 - **Email**: [stevan.devpp@gmail.com](mailto:stevan.devpp@gmail.com)
