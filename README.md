@@ -1,16 +1,25 @@
-## Hi there 👋
+**React** & **TypeScript** Developer
 
-<!--
-**Stv-devl/Stv-devl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+## Featured Projects
+
+1. **[SyncData](#)**
+---
+
+## Contact Me
+- **LinkedIn**: [https://www.linkedin.com/in/stevan-l-793141128/](#)
+- **Email**: [stevan.devpp@gmail.com](mailto:stevan.devpp@gmail.com)
+
+---
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stv-devl&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stv-devl&layout=compact)
