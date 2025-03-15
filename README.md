@@ -1,6 +1,5 @@
 # Front-end Developer React
 
-## About Me
 I'm a Front-end Developer specialized in **React/Next.js**, **TypeScript**, and **Tailwind CSS**.  
 I create modern and optimized interfaces with a strong focus on user experience.  
 I enjoy working on **complex SaaS** applications, problem-solving, and continually expanding my skill set.  
@@ -9,7 +8,6 @@ I also have backend experience with **Node.js** and **Next.js**.
 ---
 
 ## Skills
-
 
 ![React](https://img.shields.io/badge/-React-20232A?logo=react&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&style=flat)
