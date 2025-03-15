@@ -1,4 +1,4 @@
-# Front-end Developer React
+# React Front-end Developer
 
 I'm a Front-end Developer specialized in **React/Next.js**, **TypeScript**, and **Tailwind CSS**.  
 I create modern and optimized interfaces with a strong focus on user experience.  
