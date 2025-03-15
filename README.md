@@ -9,9 +9,18 @@ I also have backend experience with **Node.js** and **Next.js**.
 ---
 
 ## Skills
-- **Front-end**: React.js, Next.js, TypeScript, Tailwind CSS  
-- **Back-end**: Node.js, MongoDB, Stripe integrations  
-- **Databases**: NoSQL  
+
+### Front-end
+![React](https://img.shields.io/badge/-React-20232A?logo=react&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&style=flat)
+
+### Back-end
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&style=flat)
+![Stripe](https://img.shields.io/badge/-Stripe-6266E4?logo=stripe&style=flat)
+
 
 ---
 
