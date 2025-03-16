@@ -8,19 +8,16 @@ I also have backend experience with **Node.js** and **Next.js**.
 
 ## Skills
 
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="40" alt="React" />
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nextjs.png" width="40" alt="Next.js" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" width="40" alt="Next.js" />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="40" alt="TypeScript" />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="40" alt="Tailwind CSS" />
-
-![React](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png)
-![Next.js](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png)
-![TypeScript](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png)
-![Tailwind CSS](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png)
-![Node.js](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nodejs.png)
-![MongoDB](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png)
-![Stripe](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/stripe.png)
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="40" alt="Node.js" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="40" alt="MongoDb" />
+  <img src="https://img.shields.io/badge/-Stripe-6266E4?logo=stripe&logoColor=white&style=flat" width="40" alt="Stripe" />
+</div>
+</div>
 
 
 
