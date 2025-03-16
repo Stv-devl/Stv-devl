@@ -28,7 +28,7 @@ I also have backend experience with **Node.js** and **Next.js**.
 
 ## Working on 
 
-I'm currently working on a SaaS solution with AI integration to facilitate construction management.
+I'm currently working on a **SaaS** solution with **AI integration** to facilitate construction management.
 
 
 ## Contact Me
