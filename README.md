@@ -5,6 +5,8 @@ I create modern and optimized interfaces with a strong focus on user experience.
 I enjoy working on **complex SaaS** applications, problem-solving, and continually expanding my skills.  
 I also have backend experience with **Node.js** and **Next.js**.
 
+Currently looking for new professional opportunities.
+
 
 ## Skills
 
