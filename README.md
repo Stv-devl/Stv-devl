@@ -8,8 +8,14 @@ I also have backend experience with **Node.js** and **Next.js**.
 
 ## Skills
 
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="40" alt="React" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nextjs.png" width="40" alt="Next.js" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="40" alt="TypeScript" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="40" alt="Tailwind CSS" />
+
 ![React](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png)
-![Next.js](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nextjs.png)
+![Next.js](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png)
 ![TypeScript](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png)
 ![Tailwind CSS](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png)
 ![Node.js](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nodejs.png)
