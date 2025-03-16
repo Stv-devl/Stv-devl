@@ -8,6 +8,12 @@ I also have backend experience with **Node.js** and **Next.js**.
 
 ## Skills
 
+| ![React](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png) | ![Next.js](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nextjs.png) | ![TypeScript](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png) | ![Tailwind CSS](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png) | ![Node.js](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nodejs.png) | ![MongoDB](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png) | ![Stripe](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/stripe.png) |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+
+
+
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="40" alt="React" style="margin-right: 25px; />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" width="40" alt="Next.js" />
