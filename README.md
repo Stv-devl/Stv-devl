@@ -19,15 +19,16 @@ I also have backend experience with **Node.js** and **Next.js**.
 </div>
 
 
-
-
 ## Featured Projects
 
 1. [**SyncData**](https://github.com/Stv-devl/SyncData)  
   A **full-stack cloud storage** application built with **Next.js**, **Tailwind CSS**, **Node.js**, **Stripe**, and **MongoDB**.  
    SyncData enables users to **upload, organize, share, and manage** their files.
 
+
 ## Working on 
+
+I'm currently working on a SaaS solution with AI integration to facilitate construction management.
 
 
 ## Contact Me
