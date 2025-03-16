@@ -8,13 +8,14 @@ I also have backend experience with **Node.js** and **Next.js**.
 
 ## Skills
 
-![React](https://img.shields.io/badge/-React-20232A?logo=react&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&style=flat)
-![Stripe](https://img.shields.io/badge/-Stripe-6266E4?logo=stripe&style=flat)
+![React](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png)
+![Next.js](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nextjs.png)
+![TypeScript](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png)
+![Tailwind CSS](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png)
+![Node.js](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nodejs.png)
+![MongoDB](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png)
+![Stripe](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/stripe.png)
+
 
 
 ## Featured Projects
