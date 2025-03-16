@@ -9,14 +9,13 @@ I also have backend experience with **Node.js** and **Next.js**.
 ## Skills
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: "20px">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="40" alt="React" style="margin-right: 25px; />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" width="40" alt="Next.js" />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="40" alt="TypeScript" />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="40" alt="Tailwind CSS" />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="40" alt="Node.js" />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="40" alt="MongoDb" />
-  <img src="https://img.shields.io/badge/-Stripe-6266E4?logo=stripe&logoColor=white&style=flat" width="40" alt="Stripe" />
 </div>
 
 
