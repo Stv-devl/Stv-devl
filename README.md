@@ -30,7 +30,7 @@ Currently looking for new professional opportunities.
 
 ## Working on 
 
-. I'm working on a **SaaS** solution with **AI integration** to facilitate construction management.
+. I'm working on a **SaaS** solution with **AI integration** to facilitate construction management.  
 . I also working on an open-source educational website
 
 
