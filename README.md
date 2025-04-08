@@ -3,7 +3,7 @@
 I'm a Front-end Developer specialized in **React/Next.js**, **TypeScript**, and **Tailwind CSS**.  
 I create modern and optimized interfaces with a strong focus on user experience.  
 I enjoy working on **complex SaaS** applications, problem-solving, and continually expanding my skills.  
-I also have backend experience with **Node.js** and **Next.js**.
+I also have backend experience with **Node.js**, **postgresql**, **MongoDb**.
 
 Currently looking for new professional opportunities.
 
@@ -29,9 +29,9 @@ Currently looking for new professional opportunities.
 
 
 ## Working on 
-
-. I'm working on a **SaaS** solution with **AI integration** to facilitate construction management.  
-. I also working on an open-source educational website
+  
+. I'm working on an open-source educational website for developeurs (quiz, live coding, IA interview, stats, Ats scan...)
+. I'm also working on a **SaaS** solution with **AI integration** to facilitate construction management.
 
 
 ## Contact Me
