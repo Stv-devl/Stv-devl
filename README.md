@@ -24,7 +24,7 @@ Currently looking for new professional opportunities.
 ## Featured Projects
 
 1 [**DivBrainers**](https://github.com/Stv-devl/divbrainers)  
-A full-stack educative platform built with  **Next.js**, **Tailwind CSS**, **Node.js**, **Prisma**, and **PostgreSQL**.  .
+A full-stack educative platform built with  **Next.js**, **Tailwind CSS**, **Node.js**, **Prisma**, and **PostgreSQL**. 
 DivBrainers is a full-stack an open-source application that helps developers to prepare for technical job interviews. It combines AI-driven interviews, a secure dashboard, and upcoming tools like coding challenges, quizzes, and ATS resume analysis to offer a complete 
 preparation kit.
 
