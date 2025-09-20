@@ -23,7 +23,7 @@ Currently looking for new professional opportunities.
 
 ## Featured Projects
 
-1. [**Huntify**] 
+1. **Huntify**
 A SaaS platform built with **React.js**, **Tailwind CSS**, **Deno**, **Supabase**, and **PostgreSQL**. 
 Huntify is an application that helps freelancers and consultants find hidden opportunities on LinkedIn. It combines automated scraping of job posts, AI-driven filtering and analysis, a secure dashboard, and subscription plans with credits to provide a complete lead-generation toolkit.
 
