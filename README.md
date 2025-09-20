@@ -23,14 +23,19 @@ Currently looking for new professional opportunities.
 
 ## Featured Projects
 
-1 [**DivBrainers**](https://github.com/Stv-devl/divbrainers)  
-A full-stack educative platform built with  **Next.js**, **Tailwind CSS**, **Node.js**, **Prisma**, and **PostgreSQL**. 
+1. [**Huntify**] 
+A SaaS platform built with **React.js**, **Tailwind CSS**, **Deno**, **Supabase**, and **PostgreSQL**. 
+Huntify is an application that helps freelancers and consultants find hidden opportunities on LinkedIn. It combines automated scraping of job posts, AI-driven filtering and analysis, a secure dashboard, and subscription plans with credits to provide a complete lead-generation toolkit.
+
+
+2. [**DivBrainers**](https://github.com/Stv-devl/divbrainers)  
+A full-stack educative platform built with  **Next.js**, **Tailwind CSS**, **Prisma**, and **PostgreSQL**. 
 DivBrainers is a full-stack an open-source application that helps developers to prepare for technical job interviews. It combines AI-driven interviews, a secure dashboard, and upcoming tools like coding challenges, quizzes, and ATS resume analysis to offer a complete 
 preparation kit.
 
 
-2. [**SyncData**](https://github.com/Stv-devl/SyncData)  
-A **full-stack cloud storage** application built with **Next.js**, **Tailwind CSS**, **Node.js**, **Stripe**, and **MongoDB**.  
+3. [**SyncData**](https://github.com/Stv-devl/SyncData)  
+A **full-stack cloud storage** application built with **Next.js**, **Tailwind CSS**, **Stripe**, and **MongoDB**.  
 SyncData enables users to **upload, organize, share, and manage** their files.
 
 
