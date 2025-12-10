@@ -40,4 +40,3 @@ SyncData enables users to **upload, organize, share, and manage** their files.
 ## Contact Me
 
 - **Portfolio**: [portfolio](https://www.stevandev.com/)  
-- **LinkedIn**: [profile](https://www.linkedin.com/in/stevan-l-793141128/)  
