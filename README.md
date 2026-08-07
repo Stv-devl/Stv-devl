@@ -5,8 +5,6 @@ I build modern, scalable SaaS applications with a strong focus on user experienc
 
 I also work on backend systems using **Deno**, **Supabase**, and **PostgreSQL**.
 
-Currently looking for new professional opportunities.
-
 
 ## Skills
 
