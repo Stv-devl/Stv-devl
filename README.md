@@ -28,7 +28,7 @@ Claude, Mistral
 
 ## Featured Projects
 
-### 1. [Prescripto](https://github.com/Stv-devl/divbrainers](https://github.com/Stv-devl/prescripto-v1)
+### 1. [Prescripto](https://github.com/Stv-devl/divbrainers](https://github.com/Stv-devl/prescripto-v1).
 Document intelligence for the construction industry.
 
 Writing a CCTP means cross-checking hundreds of pages of technical specs by
