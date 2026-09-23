@@ -72,7 +72,7 @@ This project also connects my software work with my previous experience in the c
 
 ---
 
-### 3. LoopKit
+### 3. [LoopKit](https://github.com/Stv-devl/LoopKit)
 
 **Agentic development workflows with Claude and Codex.**
 
