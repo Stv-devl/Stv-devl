@@ -1,4 +1,4 @@
-# Stevan Lansade — Full-Stack & AI Engineer
+# Full-Stack & AI Engineer
 
 I build AI-powered SaaS products and AI systems end to end, from backend architecture and data pipelines to production-ready interfaces.
 
